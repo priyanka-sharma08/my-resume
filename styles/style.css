@@ -1,0 +1,94 @@
+.container{
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+.name{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color:rgb(89, 89, 192);
+}
+.contact{
+    text-align: center;
+}
+.contact p{
+    display: inline-block;
+    padding: 0 10px;
+}
+.subcontainer{
+    text-align:justify ;
+
+}
+.subcontainer p.heading{
+    text-align:left;
+    color:rgb(89, 89, 192);
+    padding: 0;
+    margin: 0;
+    font-weight: 600;
+}
+.subcontainer hr{
+    text-align:left;
+    padding: 0;
+    margin: 0;
+    border-top: 2px solid rgb(89, 89, 192);
+}
+.subcontainer p.description{
+    text-align:left;
+    padding: 0;
+    margin: 0;
+}
+
+.subcontainer span.date{
+    position: relative;
+    float: right;
+}
+.subcontainer span.title{
+    font-weight: 600;
+    font-size: 14px;
+
+}
+.subcontainer div.skills{
+    text-align:left;
+    color:rgb(89, 89, 192);
+    padding: 0;
+    margin: 0;
+    font-weight: 600;
+}
+.subcontainer div.education{
+    text-align:left;
+    color:rgb(89, 89, 192);
+    padding: 0;
+    margin: 0;
+    font-weight: 600;
+}
+.subcontainer div.certifications{
+    text-align:left;
+    color:rgb(89, 89, 192);
+    padding: 0;
+    margin: 0;
+    font-weight: 600;
+}
+
+.subcontainer div.publications{
+    text-align:left;
+    color:rgb(89, 89, 192);
+    padding: 0;
+    margin: 0;
+    font-weight: 600;
+}
+.subcontainer div.hobbies{
+    text-align:left;
+    color:rgb(89, 89, 192);
+    padding: 0;
+    margin: 0;
+    font-weight: 600;
+}
+.container a{
+    text-decoration: none;
+}
+.subconatiner span.items{
+    padding: 0;
+    margin: 0;
+}
